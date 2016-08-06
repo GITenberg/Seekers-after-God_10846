@@ -1,0 +1,32 @@
+_repo: Seekers-after-God_10846
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Farrar, F. W. (Frederic William)
+    aliases:
+    - Farrar, Frederic William
+    - Hope, F. T. L.
+    - Farrar, Frederick William
+    - Farrar, Dean (Frederic William)
+    birthdate: 1831
+    deathdate: 1903
+    gutenberg_agent_id: '3715'
+    url: http://www.gutenberg.org/2009/agents/3715
+    wikipedia: http://en.wikipedia.org/wiki/Frederic_William_Farrar
+description: Seneca. -- Epictetus. -- Marcus Aurelius.
+gutenberg_issued: '2004-01-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '10846'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Epictetus'
+- !lcsh 'Seneca, Lucius Annaeus, approximately 4 B.C.-65 A.D. -- Religion'
+- !lcc 'B'
+- !lcsh 'Marcus Aurelius, Emperor of Rome, 121-180'
+- GITenberg
+title: Seekers after God
+url: http://www.gutenberg.org/ebooks/10846
